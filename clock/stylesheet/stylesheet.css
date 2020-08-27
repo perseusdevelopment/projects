@@ -1,0 +1,19 @@
+body {
+   
+    background-color:navy;
+    }
+
+#clock {
+    
+    color:#fff;
+    font-size: 125px;
+    background-color: #000;
+    padding:10px;
+    width:80%;
+    margin-left:100px;
+    font-family:fantasy;
+    text-align: center;
+    margin-top:250px;
+    border:solid 10px;
+    border-color: greenyellow;
+}
